@@ -1,0 +1,5 @@
+Services Included:	Oracle Database, Java, Compute, Developer, Database Backup, Storage, Application Container, SOA Cloud Services
+Account / Identity Domain:	sarathylearning
+Order ID:	C8366191
+Order Date:	16-Jan-2017
+Trial Duration:	30 days
